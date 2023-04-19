@@ -1,6 +1,0 @@
-﻿  Assignment4(Linkedvector).cpp
-C:\Users\ismai\OneDrive\Desktop\cs2\Assignment 4\Assignment4(Linkedvector)\Assignment4(Linkedvector)\Linkedlist.h(62,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Linkedlist.cpp
-C:\Users\ismai\OneDrive\Desktop\cs2\Assignment 4\Assignment4(Linkedvector)\Assignment4(Linkedvector)\Linkedlist.h(62,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Generating Code...
-  Assignment4(Linkedvector).vcxproj -> C:\Users\ismai\OneDrive\Desktop\cs2\Assignment 4\Assignment4(Linkedvector)\x64\Debug\Assignment4(Linkedvector).exe
